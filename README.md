@@ -1,4 +1,4 @@
-# Retail Sales Forecasting & Promotional Impact Analysis
+# Project-1: Retail Sales Forecasting & Promotional Impact Analysis
 
 ## Overview
 Analyzed 421K+ weekly retail sales records across 45 stores and 81 departments to forecast demand and quantify the impact of holiday markdowns.
